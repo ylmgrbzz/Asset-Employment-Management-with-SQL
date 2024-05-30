@@ -1,4 +1,4 @@
-# <ad_soyad> Varlık Yönetimi Projesi
+# Varlık Yönetimi Projesi
 
 ## Veritabanı Oluşturma
 
